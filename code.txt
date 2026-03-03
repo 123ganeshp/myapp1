@@ -1,1 +1,2 @@
 this is line 1 in code.txt
+this is line 2 in code.txt file
